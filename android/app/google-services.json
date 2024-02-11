@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36540021835",
+    "project_id": "register-login-7b9c9",
+    "storage_bucket": "register-login-7b9c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36540021835:android:36eae3a9625a2b7cf561ce",
+        "android_client_info": {
+          "package_name": "com.example.daily_quotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdLPtvcuIInuMD5JOI0GPXzlUh7PheDzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
